@@ -1,4 +1,4 @@
-package Projeto.da.semana.spring.react;
+package com.devsuperior.dsmeta;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
